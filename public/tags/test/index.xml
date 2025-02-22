@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on My site.</title>
+    <link>//localhost:1313/tags/test/</link>
+    <description>Recent content in Test on My site.</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2025, all rights reserved.</copyright>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Is a Test Post</title>
+      <link>//localhost:1313/posts/this-is-a-test-post/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/this-is-a-test-post/</guid>
+      <description>&lt;p&gt;I am trying to setup this automatic blog pipeline&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s see if it works.&lt;/p&gt;&#xA;&lt;p&gt;Test image incoming&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/screenshot_hu3625707841289264029.png&#34; alt=&#34;Image Description&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/tumblr_bd502d772947e0469425b17bbc63c949_b6bfe7dc_1280.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
