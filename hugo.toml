@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "My site."
+title = "Sugarblood"
 copyright = "Copyright (c) 2025, all rights reserved."
 canonifyurls = true
 languageCode = "en-US"
@@ -10,7 +10,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params.author]
-  name = ""
+  name = "sugarblood"
 
 SectionPagesMenu = "main"
 
@@ -23,7 +23,7 @@ SectionPagesMenu = "main"
   name = "Posts"
   weight = -120
   identifier = "post"
-  url = "/post/"
+  url = "/posts/"
 
 [[menu.main]]
   name = "Tags"
@@ -32,17 +32,15 @@ SectionPagesMenu = "main"
   url = "/tags/"
 
 [params.meta]
-  keywords = "blog, tech"
-  description = "Personal blog."
+  keywords = "blog, tech, hacking, cybersecurity, AI, ML, machine learning, personal"
+  description = "A beginnning to a second brain possibly, or maybe just a dump site for tutorials for myself for later."
 [params.meta.fediverse]
   creator = "@usename@mastodon.server" # https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
 
 [params]
-  github = "github id"
-  gitlab = "gitlab id"
-  twitter = "twitter id"
+  github = "Sugarbl00d"
   linkedin = "linkedin id"
-  email = "myemail"
+  email = "jared@ltr.dev"
   theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
   utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
   utterancesTheme="github-dark" # Default: github-dark
