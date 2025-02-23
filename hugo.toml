@@ -6,7 +6,7 @@ languageCode = "en-US"
 pagination.pagerSize = 3
 theme = "hugo-dusk"
 
-googleAnalytics = ""
+googleAnalytics = "G-3HS071YZGC"
 disqusShortname = ""
 
 [params.author]
