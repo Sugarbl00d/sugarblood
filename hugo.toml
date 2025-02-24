@@ -39,7 +39,7 @@ SectionPagesMenu = "main"
 
 [params]
   github = "Sugarbl00d"
-  linkedin = "linkedin id"
+  linkedin = "jared-saye"
   email = "jared@ltr.dev"
   theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
   utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
