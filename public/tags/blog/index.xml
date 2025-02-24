@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2025, all rights reserved.</copyright>
-    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Brief Introduction</title>
+      <link>/posts/a-brief-introduction/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/a-brief-introduction/</guid>
+      <description>&lt;h1 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h1&gt;&#xA;&lt;p&gt;Well, I guess I should probably introduce myself, or you may not end up trusting what I have to say. The name is Jared Saye, but I&amp;rsquo;ve gone by Sugarblood online for many years. I&amp;rsquo;m a 24 year old fresh college graduate still waiting on an employment opportunity. I just graduated from The University of Alabama (Roll Tide!) with an M.S. in Computer Science and a B.S. in both Computer Science and Electrical Engineering. I also received my CompTIA Security+ certification the same week I got my masters degree due to some poor planning on my part.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Template</title>
       <link>/posts/test-the-mega-script/</link>
