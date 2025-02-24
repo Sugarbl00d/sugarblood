@@ -1,7 +1,7 @@
 ---
 title: Template
 date: 2025-02-22
-draft: false
+draft: true
 tags:
   - test
   - blog
