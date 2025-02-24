@@ -25,7 +25,7 @@ I also delve into cybersecurity topics because I really like the idea of owning 
 
 These days, the term "AI" usually means Large Language Models (LLMs). When I say I'm interested in AI/ML, these are included as a subcategory, but there are so many other parts of the AI/ML space that are just as interesting or useful in there own ways. Object recognition, search algorithms, game adversaries are just a few examples of some more interesting applications. Most of the actual work I *~~will~~* hope to do with AI and ML will be with robotics.
 
-I believe in the humanoid robotics revolution, and I want to be a part of it. However, for now, this interest of mine is on the back burner. My best friend has some really cool robotics-related content over at [OverMyHead](https://www.youtube.com/@kindaovermyhead)on YouTube.
+I believe in the humanoid robotics revolution, and I want to be a part of it. However, for now, this interest of mine is on the back burner. My best friend has some really cool robotics-related content over at [OverMyHead](https://www.youtube.com/@kindaovermyhead) on YouTube.
 
 As for electronics projects, most of the ones I hope to do in the near future revolve around hardware hacking. As time goes on, I want to also begin learning more about the electronics involved in robotics, power generation, and much more.
 
